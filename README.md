@@ -1,2 +1,2 @@
 # Power-BI-Dashboards
-A Collection of PoweBI Dashboard
+A Collection of PoweBI Dashboards
